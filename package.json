@@ -1,0 +1,16 @@
+{
+  "name": "gitserver",
+  "version": "1.0.0",
+  "description": "Creating collections in my database with post method and also using get, put and delete on it just for practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+  "author": "Sophyy",
+  "license": "ISC"
+}
